@@ -1,9 +1,9 @@
 ### Hi there 👋
-S/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 [![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dneth04)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dneth04&" alt="Dneth04" /></p>
 <!--
 **Dneth04/Dneth04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
