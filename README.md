@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dneth04)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dneth04)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dneth04&" alt="Dneth04" /></p>
 <!--
