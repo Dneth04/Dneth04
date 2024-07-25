@@ -6,13 +6,6 @@
 ### I'm Nethra, a passionate and dynamic coder exploring the vast landscape of technology. From Machine Learning and Data Science to Frontend Development and AI, I enjoy diving into various tech fields and leveraging APIs and Open Source tools. I believe in taking bold steps and making the most of every opportunity that comes my way. Let's innovate and create the future together!
 
 ---
---[![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dneth04)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dneth04&" alt="Dneth04" /></p>
-<!--
-**Dneth04/Dneth04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----
 - 🔭 I’m currently working on Projects in Headstarter Fellowship program, It has been fun so far:)
 - 🌱 I’m currently learning tensorflow and computer_vision to deeply understand the image processing domain!!
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Nethradevi-Baskar) ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)
