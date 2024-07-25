@@ -5,7 +5,7 @@ I'm Nethra, a passionate and dynamic coder exploring the vast landscape of techn
 ---
 - 🔭 I’m currently working on projects in the Headstarter Fellowship program; it has been fun so far! 🙂
 - 🌱 I’m currently learning TensorFlow and computer vision to deeply understand the image processing domain!
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nethradevi-baskar-366b2525a/) <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" height="20"/>
+- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nethradevi-baskar-366b2525a/) <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" height="20"/>
 - ⚡ Fun fact: The most elusive bugs often hide in the tiniest parts of the code. 🐛
 ---
 
