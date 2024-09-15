@@ -1,4 +1,4 @@
-![Your Alt Text](profile-1.png)
+![Your Alt Text](profile-2.png)
 
 # Hi there 👋
 
