@@ -1,3 +1,5 @@
+![Your Alt Text](profile.png)
+
 # Hi there 👋
 
 I'm Nethra, a passionate and dynamic coder exploring the vast landscape of technology. From Machine Learning and Data Science to Frontend Development and AI, I enjoy diving into various tech fields and leveraging APIs and Open Source tools. I believe in taking bold steps and making the most of every opportunity that comes my way. Let's innovate and create the future together!
